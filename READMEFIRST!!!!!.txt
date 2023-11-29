@@ -7,8 +7,12 @@
             | |                                                                   
             |_|                                                                   
 Github instructions:-
-!) hit
+1)go the main page of this repository and click code
+2)click save as zip, the file will be downloaded
+3)Extract the file and click the run.bat file
 # Precautions
+>Do not rename the file, renaming it will cause the "run.bat" file to malfunction
+
 > This program runs best when you run it using the provided "run.bat"'file
 
 > The program is very broken when used with the Idle interpreter
