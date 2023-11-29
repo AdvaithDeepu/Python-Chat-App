@@ -6,7 +6,8 @@
 \____/ \__,_| .__/ \___|_|     \____/_| |_|\__,_|\__|\__\___|_|  \____/ \___/_/\_\
             | |                                                                   
             |_|                                                                   
-
+Github instructions:-
+!) hit
 # Precautions
 > This program runs best when you run it using the provided "run.bat"'file
 
