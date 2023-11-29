@@ -6,12 +6,15 @@
 \____/ \__,_| .__/ \___|_|     \____/_| |_|\__,_|\__|\__\___|_|  \____/ \___/_/\_\
             | |                                                                   
             |_|                                                                   
-Github instructions:-
-1)go the main page of this repository and click code
-2)click save as zip, the file will be downloaded
+#Github instructions:-
+
+1)Go the main page of this repository and click code
+2)Click save as zip, the file will be downloaded
 3)Extract the file and click the run.bat file
+
 # Precautions
->Do not rename the file, renaming it will cause the "run.bat" file to malfunction
+
+> Do not rename the file, renaming it will cause the "run.bat" file to malfunction
 
 > This program runs best when you run it using the provided "run.bat"'file
 
