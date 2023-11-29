@@ -9,7 +9,7 @@
 #Github instructions:-
 
 1)Go the main page of this repository and click code
-2)Click save as zip, the file will be downloaded
+2)Click "Download Zip", the file will be downloaded
 3)Extract the file and click the run.bat file
 
 # Precautions
